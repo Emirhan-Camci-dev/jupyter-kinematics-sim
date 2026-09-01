@@ -1,0 +1,16 @@
+[package]
+name = "jupyter-kinematics-sim-core"
+version = "0.1.0"
+edition = "2021"
+authors = ["Emirhan CAMCI <byemir@live.com>"]
+description = "Community Edition: Standard Inverse Kinematics Solver"
+license = "AGPL-3.0"
+
+[lib]
+name = "jupyter_kinematics_sim_core"
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+pyo3 = { version = "0.22", features = ["extension-module", "abi3-py38"] }
+nalgebra = "0.33.0"
+numpy = "0.22"
