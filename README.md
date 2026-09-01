@@ -23,9 +23,9 @@ This project follows an Open-Core model.
 | Collision Avoidance | Not Included | Continuous Collision Detection (<50μs) |
 | Sim2Real Dynamics | Not Included | Dynamic parameter identification |
 | License Verification | Open Source | Offline Ed25519 Cryptographic JWT |
-| Pricing | Free | **$1,800 – $4,500/year per seat** |
 
-[**🚀 Buy Enterprise R&D Seat License via Polar.sh**](https://polar.sh)
+
+[**🚀 Buy Enterprise R&D Seat License via Polar.sh**](https://buy.polar.sh/polar_cl_LtJ9ztRiE4UGkHlvIvEdf9BNSMi91FzE6n56V1s6NQ5)
 
 ---
 
